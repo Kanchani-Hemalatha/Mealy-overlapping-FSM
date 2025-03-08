@@ -1,4 +1,4 @@
-# Mealy FSM Overlapping Sequence Detector
+# Mealy FSM Overlapping Sequence Detector(1010)
 
 ## Overview
 This Verilog module implements a **Mealy finite state machine (FSM) with overlapping sequence detection**. Unlike the Moore FSM, the **Mealy FSM determines its output based on both the current state and input**. The **overlapping** nature allows sequences to be detected even if they share common bits with the next sequence.
