@@ -92,4 +92,13 @@ To test the FSM:
 1. Apply different sequences as `din`.
 2. Observe `dout` to confirm when "1010" is detected.
 3. Verify that the FSM correctly detects overlapping sequences (e.g., input "101010" should detect twice).
+   
+## edapalyground link
+https://www.edaplayground.com/x/JeXi
+
+## simulation output
+![image](https://github.com/user-attachments/assets/fffe40fd-9237-4839-87ee-6296a994b92a)
+
+## waveform
+![image](https://github.com/user-attachments/assets/c22375df-1fa9-4a91-8c90-c355bece0ca4)
 
